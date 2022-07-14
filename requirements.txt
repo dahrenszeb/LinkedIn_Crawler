@@ -1,0 +1,6 @@
+###### Requirements without Version Specifiers ######
+beautifulsoup4
+selenium
+docker
+
+###### Requirements with Version Specifiers ######
